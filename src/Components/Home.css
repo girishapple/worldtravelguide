@@ -1,0 +1,640 @@
+.body
+{
+    max-width: 100%;
+    overflow-x: hidden !important;
+}
+
+.covid-instruction
+{
+    width: 100%;
+    background-color: #895396;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: -1px;
+}
+.logo
+{
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin-left: 50px;
+        margin-top: -10px;
+}
+.logo img
+{
+    height: 120px;
+}
+.navbar
+{
+    background-color: royalblue;
+    height: 60px;
+    width: 100%;
+}
+.nav-content
+{
+    margin-left: 300px;
+    padding: 10px;
+}
+.navbar ul li 
+{
+  display: inline;
+  margin-left: 30px;
+}
+.navbar ul li a
+{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+.poster img
+{
+    width: 100%;
+}
+.poster h1
+{
+    position: relative;
+    top: -600px;
+    left: 550px;
+    font-size: 45px;
+    color: whitesmoke;
+}
+.poster p
+{
+    position: relative;
+    top: -620px;
+    left: 550px;
+    font-size: 45px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.poster input
+{
+    position: relative;
+    top: -600px;
+    left: 480px;
+    color: whitesmoke;
+    height: 30px;
+    width: 550px;
+}
+.follow
+{
+    margin-top: -80px;
+    margin-left: 650px;
+}
+.follow h4
+{
+    color:blueviolet;
+}
+.icons
+{
+    margin-left: -40px;
+    margin-top: -10px;
+}
+.icons i
+{
+    color:blueviolet;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.editor
+{
+    background-color: #2a2466;
+    width: 100%;
+    margin-top: 20px;
+}
+.content
+{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 70px;
+    margin-left: 220px;
+}
+.content h1
+{
+    color: white;
+    font-size: 30px;
+   margin-left: 300px;
+}
+.content p
+{
+    color: white;
+    font-size: 22px;
+    font-family: "Open Sans", sans-serif;
+}
+.Travel
+{
+    margin-top: 30px;
+}
+
+.Travel p
+{
+    text-align: center;
+    font-size: 35px;
+}
+.Travel button
+{
+    width: 100px;
+    padding: 7px;
+    border-radius: 16px;
+    margin-left: 670px;
+    margin-top: -10px;
+    color: #383479;
+    border: 2px solid #383479;
+}
+.row div
+{
+    display: inline-block;
+}
+.row
+{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.cards{
+    width: 400px;
+}
+.cards img
+{
+    width: 350px;
+    margin-left: 50px !important;
+}
+.cards h1
+{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: -2px;
+    color: #383479;
+}
+.cards p
+{
+    font-size: 15px;
+    color: #383479;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+/* !!! footer */
+#footer
+{
+    background-color: #2a2466;
+    padding: 20px 0 55px 0;
+    color: #fff;
+    margin-top: 50px;
+    padding: 50px;
+}
+#footer .about
+{
+    width: 250px;
+    text-align: left;
+    font-size: 15px;
+}
+.footer-content div ul 
+{
+    list-style-type: none;
+}
+.Africa
+{
+    margin-left: 400px;
+    margin-top: -500px;
+}
+.Africa ul li
+{
+    margin-top: 30px;
+}
+.Airport
+{
+    margin-left: 600px;
+    margin-top: -430px;
+}
+.Airport ul li
+{
+    margin-top: 30px;
+}
+.Aboutus
+{
+    margin-left: 800px;
+    margin-top: -430px;
+}
+.Aboutus ul li
+{
+    margin-top: 30px;
+}
+.der
+{
+    margin-left: 1000px;
+    margin-top: -160px;
+}
+.der ul li
+{
+    margin-top: 30px;
+}
+.awards
+{
+    margin-top: 20px;
+  margin-left: 400px;
+}
+.awards img
+{
+    margin-left: 50px;
+}
+.last
+{
+    width: 100%;
+    background-color: #895396;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    height: 50px;
+    padding-top: 5px;
+}
+.lasticons
+{
+    margin-left: 750px;
+}
+.last i
+{
+    margin-left: 30px;
+}
+/* !!!! Country guide page */
+.select
+{
+    margin-top: -200px;
+}
+
+.select p
+{
+    text-align: center;
+    color: #383479;
+    font-size: 23px;
+}
+.tabs
+{
+    height: 40px;
+    background-color: blue;
+}
+.tabs-list
+{
+    margin-left: 200px;
+    padding: 10px;
+}
+.tabs-list li
+{
+    display: inline-block;
+}
+.tabs-list li a
+{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+   
+}
+.tab-content div
+{
+    display: inline-block;
+}
+.tab-content div ul
+{
+    display: inline-block;
+    list-style-type: none;
+}
+.tab-content div ul li
+{
+    font-size: 17px;
+}
+.hr hr
+{
+    height: 7px;
+    background-color: tomato;
+    border-radius: 1px;
+}
+/* !!!! City Guide */
+.city
+{
+    height: 700px !important;
+}
+.ct .cards h1
+{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: -2px;
+    color: #383479;
+}
+.ct .cards p
+{
+    font-size: 15px;
+    color: #383479;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: left;
+}
+.option
+{
+    text-align: center;
+    margin-left: 120px;
+    margin-top: -100px;
+    color: #383479;
+    font-size: 23px;
+}
+.hr1 hr
+{
+    height: 7px;
+    background-color: tomato;
+    border-radius: 1px;
+    margin-top: 1000px;
+}
+
+.ct
+{
+    text-align: center;
+}
+.ct p
+{
+    color: #383479;
+    font-size: 23px;
+}
+.ct button
+{
+    width: 100px;
+    padding: 7px;
+    border-radius: 16px;
+    color: #383479;
+    border: 2px solid #383479;;
+}
+
+/* !!! Features  */
+#feat
+{
+    margin-top: 50px;
+}
+.featblock
+{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+#feat-cards
+{
+    margin-left: 50px;
+}
+.f1
+{
+    margin-left: -150px;
+}
+.f1 img
+{
+ width: 500px;
+ height: 300px;
+ opacity: 1;
+}
+.f1 h1
+{
+    font-size: 30px;
+    margin-top: -250px;
+    color: white;
+}
+.f2
+{
+    margin-left: 250px;
+    margin-top: -180px;
+}
+.f2 div img
+{
+    width: 300px;
+    height: 150px;
+}
+.fea
+{
+    font-size: 35px;
+    margin-left: 600px;
+}
+.features button
+{
+   margin-left: 600px;
+   width: 100px;
+   height: 30px;
+   border-radius: 16px;
+   color: #383479;
+   border: 2px solid #383479;
+}
+.seemore button
+{
+    margin-left: 700px;
+    width: 100px;
+    height: 30px;
+    border-radius: 16px;
+    color: #383479;
+    border: 2px solid #383479;
+}
+
+/* !!! flight */
+.booking
+{
+    text-align: center;
+    font-size: 30px;
+    font-style: inherit;
+}
+#flight
+{
+   background-color:   #084eb2;
+   margin-top: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+}
+.flight-form
+{
+    text-align: center;
+}
+.group1 label
+{
+    position: relative;
+    font-size: 15px;
+  color: white;
+  top: -25px;
+}
+.group1 input
+{
+   height: 25px;
+   width: 860px;
+   border-radius: 5px;
+   margin-left: -60px;
+  margin-top: 30px;
+}
+.group2 label
+{
+    position: relative;
+    font-size: 15px;
+    color: white;
+    top: -25px;
+}
+.group2 input
+{
+    height: 25px;
+   width: 860px;
+   border-radius: 5px;
+   margin-left: -20px; 
+   margin-top: 30px;
+}
+.group3 
+{
+  font-size: 20px;
+  margin-left: -700px;
+  color: white;
+}
+.ro
+{
+    margin-top: 20px;
+}
+.ro div
+{
+    display: inline-block;
+}
+.group4 input
+{
+    height: 25px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: -50px;
+    margin-top: 20px;
+}
+.group4 label
+{
+   position: relative;
+   top: -25px;
+   color: white; 
+}
+.group5 input
+{
+    height: 25px;
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.group5 label
+{
+   position: relative;
+   top: -25px;
+ color: white;
+ left: 50px;
+}
+
+.group6 button
+{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+
+.group6 button a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.TF
+{
+    text-align: center;
+    font-size: 25px;
+}
+.btn
+{
+    margin-left: 700px;
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 15px;
+    background-color: white;
+    color: #383479;
+    border: 2px solid #383479;
+}
+/* !!!!!dropdown */
+.drop
+{
+    padding: 30px;
+}
+.dropdown
+{
+    width: 200px;
+    height: 60px;
+    background-color: gray;
+    padding: 10px;
+    padding-top: 0px;
+}
+.dropdown label
+{
+   position: relative;
+   top: -30px;
+   color: white;
+}
+.dropdown input
+{
+    background-color:black;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid white;
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+/* !!page not found */
+.page_404
+{ 
+    padding:40px 0; 
+    background:#fff; 
+    font-family: 'Arvo', serif;
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg
+{
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+    width: 300px;
+ }
+ 
+ 
+ .four_zero_four_bg h1
+ {
+ font-size:80px;
+ }
+ 
+  .four_zero_four_bg h3
+  {
+	font-size:80px;
+  }
+			 
+.link_404
+{			 
+	color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+	.contant_box_404
+    { margin-top:-50px;
+        margin-left: -250px;
+    }
+
+    .page_404 .container
+    {
+        width: 60% ;
+        margin-top: 100px;
+        margin-left: 300px;
+        text-align: center;
+        opacity: 0.8;
+        filter: drop-shadow(0px 0px 0px #2c2542);
+        height: 100vh;
+    }
