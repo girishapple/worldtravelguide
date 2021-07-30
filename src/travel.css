@@ -1,0 +1,6 @@
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+.body
+{
+    max-width: 100%;
+    overflow-x: hidden !important;
+}
